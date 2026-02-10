@@ -25,14 +25,6 @@ I am currently a **JAE Intro ICU** researcher at the **Santander Meteorology Gro
 
 ---
 
-### 📊 GitHub Stats
-
-| My Activity | Top Languages |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true) |
-
----
-
 ### 📫 How to reach me
 - **Institution:** [IFCA (Instituto de Física de Cantabria)](https://ifca.unican.es/)
 - **LinkedIn:** [www.linkedin.com/in/pablolavinpellon]
