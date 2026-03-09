@@ -13,7 +13,7 @@ I am currently a **JAE Intro ICU** researcher at the **Santander Meteorology Gro
 
 ### 🛠️ Tech Stack & Skills
 
-- **Climate Science:** Expert in `R` (specialized in the `climate4r` framework) and proficient in `Python` for atmospheric data analysis.
+- **Climate Science:** Specialized in `R` (in the `climate4r` framework) and proficient in `Python` for atmospheric data analysis.
 - **Data & Dev:** Advanced handling of `SQL` for databases, `Git/GitHub` for version control, and `LaTeX` for scientific documentation.
 - **Physics:** Optics, Photonics, and Atmospheric Physics.
 
