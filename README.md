@@ -1,17 +1,17 @@
-## Hi there, I'm Pablo Lavín Pellón 👋
+## Hi there, I'm Pablo Lavín Pellón
 
-### Physicist & Data Scientist | PhD Candidate in Training 🌍🔬
+### Physicist & Data Scientist | PhD Candidate in Training
 
 I am currently a **JAE Intro ICU** researcher at the **Santander Meteorology Group (IFCA - CSIC)**. My work focuses on bridging the gap between climate physics and data science to improve regional climate information.
 
-- 🔭 **Current Work:** Statistical downscaling applied to seasonal forecasting and agroclimatic indices.
-- 🎓 **Coming Up:** Preparing to start my PhD thesis within the same group.
-- 🌐 **PTI Clima:** Contributing to the CSIC's Interdisciplinary Thematic Platform (PTI) on Climate, which coordinates research to address climate change challenges through multidisciplinary cooperation and knowledge transfer.
-- 🎓 **Education:** Physics degree, MSc in Light Science & Engineering, and MSc in Data Science (UC).
+- **Current Work:** Statistical downscaling applied to seasonal forecasting and agroclimatic indices.
+- **Coming Up:** Preparing to start my PhD thesis within the same group.
+- **PTI Clima:** Contributing to the CSIC's Interdisciplinary Thematic Platform (PTI) on Climate, which coordinates research to address climate change challenges through multidisciplinary cooperation and knowledge transfer.
+- **Education:** Physics degree, MSc in Light Science & Engineering, and MSc in Data Science (UC).
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 - **Climate Science:** Specialized in `R` (in the `climate4r` framework) and proficient in `Python` for atmospheric data analysis.
 - **Data & Dev:** Advanced handling of `SQL` for databases, `Git/GitHub` for version control, and `LaTeX` for scientific documentation.
@@ -25,6 +25,6 @@ I am currently a **JAE Intro ICU** researcher at the **Santander Meteorology Gro
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 - **Institution:** [IFCA (Instituto de Física de Cantabria)](https://ifca.unican.es/)
 - **LinkedIn:** [www.linkedin.com/in/pablolavinpellon]
