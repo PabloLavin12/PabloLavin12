@@ -1,12 +1,11 @@
 ## Hi there, I'm Pablo Lavín Pellón
 
-### Physicist & Data Scientist | PhD Candidate in Training
+### Physicist & Data Scientist | CSIC Researcher & PhD Candidate
 
-I am currently a **JAE Intro ICU** researcher at the **Santander Meteorology Group (IFCA - CSIC)**. My work focuses on bridging the gap between climate physics and data science to improve regional climate information.
+I am currently a **Researcher** at the **Santander Meteorology Group (IFCA - CSIC)**. My work focuses on bridging the gap between climate physics and data science to improve regional climate information.
 
-- **Current Work:** Statistical downscaling applied to seasonal forecasting and agroclimatic indices.
-- **Coming Up:** Preparing to start my PhD thesis within the same group.
-- **PTI Clima:** Contributing to the CSIC's Interdisciplinary Thematic Platform (PTI) on Climate, which coordinates research to address climate change challenges through multidisciplinary cooperation and knowledge transfer.
+- **Current Work:** Statistical downscaling applied to seasonal forecasting and agroclimatic indices. Currently developing my PhD thesis within the group.
+- **PTI Clima:** Collaborated with the CSIC's Interdisciplinary Thematic Platform (PTI) on Climate, which coordinates research to address climate change challenges through multidisciplinary cooperation and knowledge transfer.
 - **Education:** Physics degree, MSc in Light Science & Engineering, and MSc in Data Science (UC).
 
 ---
